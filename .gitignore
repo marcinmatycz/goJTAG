@@ -1,0 +1,16 @@
+do pakunku/
+~*
+*.Dat
+*.TLT
+*.REP
+*.LOG
+*.log
+*.zip
+*.rar
+*.PrjPCBStructure
+*.SchDocPreview
+*.PcbDocPreview
+*\__Previews
+*\History
+*.PrjPcbStructure
+
